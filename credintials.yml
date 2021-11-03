@@ -1,8 +1,8 @@
 db:
-  host: "localhost"
-  user: "root"
-  passwd: "root"
-  database: "mydatabase"
+  host: " remotemysql.com"
+  user: "zzsUikbNX4"
+  passwd: "fdR6HYmZZt"
+  database: "zzsUikbNX4"
   auth_plugin: "mysql_native_password"
 
 system_pass:
